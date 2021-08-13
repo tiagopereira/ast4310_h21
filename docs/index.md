@@ -14,7 +14,7 @@ These pages contain a description of AST4310 and additional resources. The pages
 
 
 ## Communication
-- We will use an online forum to communicate. Details are still being worked on, this will be updated.
+- We will use the Institute's forum [Astro Discourse](https://astro-discourse.utenforuio.no/) for communication. You need to register before starting to use the forum. Please use your real name when registering so we can make sure only real UiO students use the forum (anonymous posting is possible after registering). Look for the [AST4310](https://astro-discourse.utenforuio.no/c/ast4310/6) category. 
 
 ## Assessment
 
