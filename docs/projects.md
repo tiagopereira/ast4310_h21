@@ -6,15 +6,15 @@ There are a total of six projects, to be handed in at different times and with a
 
 |        | Deadline          | Weight  |  Topic  |
 | ------------- |:-------------:| :----:|:---|
-| [Project 1](https://github.com/tiagopereira/ast4310/tree/master/notebooks/project1)     | 10.09.2021 | 5% | Basic spectral line formation |
-| [Project 2](https://github.com/tiagopereira/ast4310/tree/master/notebooks/project2)    | 24.09.2021 | 15% | Line strengths and curve of growth |
-| [Project 3](https://github.com/tiagopereira/ast4310/tree/master/notebooks/project3)     | 08.10.2021 | 20% | *La Palma* |
-| [Project 4](https://github.com/tiagopereira/ast4310/tree/master/notebooks/project4)     | 29.10.2021 | 20% | Solar stratification and continua |
-| [Project 5](https://github.com/tiagopereira/ast4310/tree/master/notebooks/project5)     | 19.11.2021 | 20% | LTE line formation |
+| [Project 1](https://github.com/tiagopereira/ast4310/tree/main/notebooks/project1)     | 10.09.2021 | 5% | Basic spectral line formation |
+| [Project 2](https://github.com/tiagopereira/ast4310/tree/main/notebooks/project2)    | 24.09.2021 | 15% | Line strengths and curve of growth |
+| [Project 3](https://github.com/tiagopereira/ast4310/tree/main/notebooks/project3)     | 08.10.2021 | 20% | *La Palma* |
+| [Project 4](https://github.com/tiagopereira/ast4310/tree/main/notebooks/project4)     | 29.10.2021 | 20% | Solar stratification and continua |
+| [Project 5](https://github.com/tiagopereira/ast4310/tree/main/notebooks/project5)     | 19.11.2021 | 20% | LTE line formation |
 | Project 6     | 17.12.2021 | 20% | *Different options:* |
-| <ul><li><a href="https://github.com/tiagopereira/ast4310/tree/master/notebooks/project6a">Project 6a</a></li></ul>    | | | <ul><li>3D Radiative Transfer</li></ul>|
-| <ul><li><a href="https://github.com/tiagopereira/ast4310/tree/master/notebooks/project6b">Project 6b</a></li></ul>   | | | <ul><li>Scattering</li></ul> |
-| <ul><li><a href="https://github.com/tiagopereira/ast4310/tree/master/notebooks/project6c">Project 6c</a></li></ul>   | | | <ul><li>Polarised Radiative Transfer</li></ul> |
+| <ul><li><a href="https://github.com/tiagopereira/ast4310/tree/main/notebooks/project6a">Project 6a</a></li></ul>    | | | <ul><li>3D Radiative Transfer</li></ul>|
+| <ul><li><a href="https://github.com/tiagopereira/ast4310/tree/main/notebooks/project6b">Project 6b</a></li></ul>   | | | <ul><li>Scattering</li></ul> |
+| <ul><li><a href="https://github.com/tiagopereira/ast4310/tree/main/notebooks/project6c">Project 6c</a></li></ul>   | | | <ul><li>Polarised Radiative Transfer</li></ul> |
 
 For project 6 there are three different options to chose from (each person/group can only select one). 
 
@@ -29,7 +29,7 @@ Most of the time you should be using Jupyter lab, a more modern and complete ver
 
 The projects should be handed in as Jupyter notebooks (Python or Julia). The expected workflow is that you work on your notebooks on JupyterHub, and when done download them from JupyterHub (right click on the file then download, when you are on Jupyter lab).
 
-Please have a look at the [Guidelines notebook](https://github.com/tiagopereira/ast4310/blob/master/notebooks/Guidelines.ipynb) (under `ast4310/notebooks`) for more details on what is expected in the notebooks. There is also a [Template notebook](https://github.com/tiagopereira/ast4310/blob/master/notebooks/template.ipynb) that you can copy and use as a starting point for your assignments. The project deliveries will be assessed anonymously, but please remember to include your candidate numbers in the notebook submitted.
+Please have a look at the [Guidelines notebook](https://github.com/tiagopereira/ast4310/blob/main/notebooks/Guidelines.ipynb) (under `ast4310/notebooks`) for more details on what is expected in the notebooks. There is also a [Template notebook](https://github.com/tiagopereira/ast4310/blob/main/notebooks/template.ipynb) that you can copy and use as a starting point for your assignments. The project deliveries will be assessed anonymously, but please remember to include your candidate numbers in the notebook submitted.
 
 The assignments will be handed using [Devilry](https://devilry.ifi.uio.no).  The projects can be handed in individually or in groups of two. It is strongly recommended that students get together in groups for the projects. For Projects 3 and 5, groups will be mandatory and will be assigned. For all other projects, students are free to choose their groups. 
 

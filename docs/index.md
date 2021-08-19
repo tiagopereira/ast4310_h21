@@ -22,15 +22,15 @@ The final grade is determined by an assessment of six projects. The following ta
 
 |        | Deadline          | Weight  |  Topic  |
 | ------------- |:-------------:| :----:|:---|
-| [Project 1](https://github.com/tiagopereira/ast4310/tree/master/notebooks/project1)     | 10.09.2021 | 5% | Basic spectral line formation |
-| [Project 2](https://github.com/tiagopereira/ast4310/tree/master/notebooks/project2)    | 24.09.2021 | 15% | Line strengths and curve of growth |
-| [Project 3](https://github.com/tiagopereira/ast4310/tree/master/notebooks/project3)     | 08.10.2021 | 20% | *La Palma* |
-| [Project 4](https://github.com/tiagopereira/ast4310/tree/master/notebooks/project4)     | 29.10.2021 | 20% | Solar stratification and continua |
-| [Project 5](https://github.com/tiagopereira/ast4310/tree/master/notebooks/project5)     | 19.11.2021 | 20% | LTE line formation |
+| [Project 1](https://github.com/tiagopereira/ast4310/tree/main/notebooks/project1)     | 10.09.2021 | 5% | Basic spectral line formation |
+| [Project 2](https://github.com/tiagopereira/ast4310/tree/main/notebooks/project2)    | 24.09.2021 | 15% | Line strengths and curve of growth |
+| [Project 3](https://github.com/tiagopereira/ast4310/tree/main/notebooks/project3)     | 08.10.2021 | 20% | *La Palma* |
+| [Project 4](https://github.com/tiagopereira/ast4310/tree/main/notebooks/project4)     | 29.10.2021 | 20% | Solar stratification and continua |
+| [Project 5](https://github.com/tiagopereira/ast4310/tree/main/notebooks/project5)     | 19.11.2021 | 20% | LTE line formation |
 | Project 6     | 17.12.2021 | 20% | *Different options:* |
-| <ul><li><a href="https://github.com/tiagopereira/ast4310/tree/master/notebooks/project6a">Project 6a</a></li></ul>    | | | <ul><li>3D Radiative Transfer</li></ul>|
-| <ul><li><a href="https://github.com/tiagopereira/ast4310/tree/master/notebooks/project6b">Project 6b</a></li></ul>   | | | <ul><li>Scattering</li></ul> |
-| <ul><li><a href="https://github.com/tiagopereira/ast4310/tree/master/notebooks/project6c">Project 6c</a></li></ul>   | | | <ul><li>Polarised Radiative Transfer</li></ul> |
+| <ul><li><a href="https://github.com/tiagopereira/ast4310/tree/main/notebooks/project6a">Project 6a</a></li></ul>    | | | <ul><li>3D Radiative Transfer</li></ul>|
+| <ul><li><a href="https://github.com/tiagopereira/ast4310/tree/main/notebooks/project6b">Project 6b</a></li></ul>   | | | <ul><li>Scattering</li></ul> |
+| <ul><li><a href="https://github.com/tiagopereira/ast4310/tree/main/notebooks/project6c">Project 6c</a></li></ul>   | | | <ul><li>Polarised Radiative Transfer</li></ul> |
 
 ## Required software and tools
 
