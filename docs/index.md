@@ -1,8 +1,5 @@
 # Introduction
 
-!!! warning "Under construction"
-    This site is still under construction and materials can change at any time. Proceed with care!
-
 These pages contain a description of AST4310 and additional resources. The pages [at the University web site](https://www.uio.no/studier/emner/matnat/astro/AST4310/h21/index.html) will still be updated (in particular the messages), but the bulk of the materials will be linked here.
 
 ## Practicalities

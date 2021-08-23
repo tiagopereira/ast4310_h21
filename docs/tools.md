@@ -13,7 +13,7 @@ We will make extensive use of [JupyterHub at UiO](https://jupyterhub.uio.no/user
 
 ## Other options for running notebooks
 
-It is also possible to run the Jupyter notebooks at the Institute's linux machines or on your own computer. Both options are not recommended and will not be supported - if you choose to do so, you will be on your own in case any problems with packages arise. For advanced users who understand the risks and nevertheless want to do a local install, see the boxes below.
+It is also possible to run the Jupyter notebooks at the Institute's linux machines or on your own computer. **Both options are not recommended and will not be supported** - if you choose to do so, you will be on your own in case any problems with packages arise. For advanced users who understand the risks and nevertheless want to do a local install, see the boxes below.
 
 ??? warning "Python installation for advanced users"
     The recommended way to install the necessary packages is through conda from the conda-forge channel. *Installing through pip will most likely lead to problems, especially if you use Windows.* You can install the necessary packages into a new conda environment using the [`environment.yml`](https://github.com/tiagopereira/ast4310/blob/master/environment.yml) from the repository, using `conda env create -f environment.yml`.
