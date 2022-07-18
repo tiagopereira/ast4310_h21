@@ -2,7 +2,7 @@
 
 ## Overview
 
-There are a total of six projects, to be handed in at different times and with a different weight on the final grade, as listed below.
+There are a total of five projects, to be handed in at different times and with a different weight on the final grade, as listed below.
 
 |        | Deadline          | Weight  |  Topic  |
 | ------------- |:-------------:| :----:|:---|
