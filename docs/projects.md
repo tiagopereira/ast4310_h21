@@ -6,17 +6,16 @@ There are a total of six projects, to be handed in at different times and with a
 
 |        | Deadline          | Weight  |  Topic  |
 | ------------- |:-------------:| :----:|:---|
-| [Project 1](https://github.com/tiagopereira/ast4310/tree/main/notebooks/project1)     | 10.09.2021 | 5% | Basic spectral line formation |
-| [Project 2](https://github.com/tiagopereira/ast4310/tree/main/notebooks/project2)    | 24.09.2021 | 15% | Line strengths and curve of growth |
-| [Project 3](https://github.com/tiagopereira/ast4310/tree/main/notebooks/project3)     | 08.10.2021 | 20% | *La Palma* |
-| [Project 4](https://github.com/tiagopereira/ast4310/tree/main/notebooks/project4)     | 29.10.2021 | 20% | Solar stratification and continua |
-| [Project 5](https://github.com/tiagopereira/ast4310/tree/main/notebooks/project5)     | 19.11.2021 | 20% | LTE line formation |
-| Project 6     | 17.12.2021 | 20% | *Different options:* |
-| <ul><li><a href="https://github.com/tiagopereira/ast4310/tree/main/notebooks/project6a">Project 6a</a></li></ul>    | | | <ul><li>3D Radiative Transfer</li></ul>|
-| <ul><li><a href="https://github.com/tiagopereira/ast4310/tree/main/notebooks/project6b">Project 6b</a></li></ul>   | | | <ul><li>Scattering</li></ul> |
-| <ul><li><a href="https://github.com/tiagopereira/ast4310/tree/main/notebooks/project6c">Project 6c</a></li></ul>   | | | <ul><li>Polarised Radiative Transfer</li></ul> |
+| [Project 1](https://github.com/tiagopereira/ast4310/tree/main/notebooks/project1)     |   | 10% | Basic spectral line formation |
+| [Project 2](https://github.com/tiagopereira/ast4310/tree/main/notebooks/project2)     |   | 15% | Line strengths and curve of growth |
+| [Project 3](https://github.com/tiagopereira/ast4310/tree/main/notebooks/project3)     |   | 25% | *La Palma* |
+| [Project 4](https://github.com/tiagopereira/ast4310/tree/main/notebooks/project4)     |   | 25% | Solar continua and LTE line formation |
+| Project 5     |   | 25% | *Different options:* |
+| <ul><li><a href="https://github.com/tiagopereira/ast4310/tree/main/notebooks/project5a">Project 5a</a></li></ul>    | | | <ul><li>3D Radiative Transfer</li></ul>|
+| <ul><li><a href="https://github.com/tiagopereira/ast4310/tree/main/notebooks/project5b">Project 5b</a></li></ul>   | | | <ul><li>Scattering</li></ul> |
+| <ul><li><a href="https://github.com/tiagopereira/ast4310/tree/main/notebooks/project5c">Project 5c</a></li></ul>   | | | <ul><li>Polarised Radiative Transfer</li></ul> |
 
-For project 6 there are three different options to chose from (each person/group can only select one). 
+For project 5 there are three different options to chose from (each person/group can only select one). 
 
 
 ## Repository
@@ -27,11 +26,11 @@ Most of the time you should be using Jupyter lab, a more modern and complete ver
 
 ## Format and delivery
 
-The projects should be handed in as Jupyter notebooks (Python or Julia). The expected workflow is that you work on your notebooks on JupyterHub, and when done download them from JupyterHub (right click on the file then download, when you are on Jupyter lab).
+The projects should be handed in as Jupyter notebooks (in Python). The expected workflow is that you work on your notebooks on JupyterHub, and when done download them from JupyterHub (right click on the file then download, when you are on Jupyter lab).
 
 Please have a look at the [Guidelines notebook](https://github.com/tiagopereira/ast4310/blob/main/notebooks/Guidelines.ipynb) (under `ast4310/notebooks`) for more details on what is expected in the notebooks. There is also a [Template notebook](https://github.com/tiagopereira/ast4310/blob/main/notebooks/template.ipynb) that you can copy and use as a starting point for your assignments. The project deliveries will be assessed anonymously, but please remember to include your candidate numbers in the notebook submitted.
 
-The assignments will be handed using [Devilry](https://devilry.ifi.uio.no).  The projects can be handed in individually or in groups of two. It is strongly recommended that students get together in groups for the projects. For Projects 3 and 5, groups will be mandatory and will be assigned. For all other projects, students are free to choose their groups. 
+The assignments will be handed using [Devilry](https://devilry.ifi.uio.no).  The projects should be handed in groups of two. In exceptional cases, they can be handed individually or in groups of three.
 
 !!! info
     Groups are not enabled in Devilry. This means that students in a group will need to submit the same files on Devilry. This is because peer review is individual (see below), therefore group members will not necessarily have the same final grade for a project.
@@ -51,8 +50,7 @@ The project weights are specified in the table at the top of this page. Each pro
 | 40 - 45 |  E |
 | 0 - 39 |  F |
 
-
-For the 100 points assigned for each project, 95 points are for the project report, and 5 points are given for peer review. The grade of each project can be improved by submitting an improved version (**up to 30% of points not earned**), see below for details. 
+For the 100 points assigned to each project, 95 points are for the report itself (Jupyter notebook), and 5 points are given for peer review. The grade of each project can be improved by submitting an improved version (**up to 30% of points not earned**), see below for details. 
 
 ### Peer review
 
@@ -72,7 +70,7 @@ Examples of meaningless comments are: *Nice work!*, *You did a good plot here!*,
 
 * The deadline to submit peer review is one week after the original submission deadline (ie, Friday to Friday).
 
-* Write your review in the notebook you receive, by adding additional markdown cells, enclosing your comments with an HTML box of the following kind:
+* Write your review in the notebook you receive, by adding additional markdown cells, enclosing your comments with an HTML box of the following kind (please do not change the colour of the `div` box):
 
 ```html
 <div style="background-color:#e6e6e6; padding:10px; border-style:
@@ -116,9 +114,9 @@ Other markdown, LaTeX: $\epsilon$, etc.
 
 ### Submitting an improved version
 
-A way to get bonus points is to submit an improved version of your project. You will be able to get 30% of the points you did not get in the first submission. For example, assume you got 50 in your first submission. The maximum grade for the report is 95 points, meaning that you were 45 points away from the maximum score. This means that you can gain up to 30% of 45 points, or 14 points. If you got 80 points initially, you can get up to 5 points more, and so on.
+A way to get bonus points is to submit an improved version of your project. You will be able to gain 30% of the points you did not get in the first submission. For example, assume you got 50 in your first submission. The maximum grade for the report is 95 points, meaning that you were 45 points away from the maximum score. This means that you can gain up to 30% of 45 points, or 14 points. If you got 80 points initially, you can get up to 5 points more, and so on.
 
-**Submitting an improved version is optional.** The goal is not to work towards a perfect delivery, but to make you reflect on your answers and learn from any shortcomings. You should consider the feedback you got from the teachers and from the peer review when working on a revised version. Trivial resubmissions with little improvement will not get bonus points. The bonus points will be awarded if there is improvement, even if the revised answer is not 100% correct. How much improvement is enough? That will be decided on a case-by-case basis. But the bar will not be set very high. 
+**Submitting an improved version is optional.** The goal is not to work towards a perfect delivery, but to make you reflect on your answers and learn from any shortcomings. You should consider the feedback you got from the teachers and from the peer review when working on a revised version. Trivial resubmissions with little improvement will get no bonus points. Bonus points will be awarded if there is improvement, even if the revised answer is not 100% correct. How much improvement is enough? That will be decided on a case-by-case basis. But the bar will not be set very high. 
 
 Bonus points from submitting an improved version will be added to both group members. As in the original submission, both will be asked to submit the new version on Devilry. 
 
