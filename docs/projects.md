@@ -35,7 +35,7 @@ The assignments will be handed using [Devilry](https://devilry.ifi.uio.no).  The
 !!! info
     Groups are not enabled in Devilry. This means that students in a group will need to submit the same files on Devilry. This is because peer review is individual (see below), therefore group members will not necessarily have the same final grade for a project.
 
-In addition to the notebook file, you should upload also all necessary files to run or notebook, or additional files you created along your notebook (e.g. a data file with the results of a long calculation). *You do not need to upload the additional files that were present in the repository* (e.g. atom files, images, etc.). Loading data files or code from the internet is not allowed.
+In addition to the notebook file, you should upload also all necessary files to run a notebook, or additional files you created along your notebook (e.g. a data file with the results of a long calculation). *You do not need to upload the additional files that were present in the repository* (e.g. atom files, images, etc.). Loading data files or code from the internet is not allowed.
 
 ## Grading
 
